@@ -4,9 +4,9 @@
 
 | # | Título | Vídeo | Descripción | Código |
 |---|--------|-------|-------------|--------|
-| 1 | Presentación |[▶️](https://www.youtube.com/watch?v=jHAxBPdjGx4&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=1)|  |[📜]()|
-| 2 | Instalación JRE y Eclipse |[▶️](https://www.youtube.com/watch?v=q93TEg-_byg&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=2)|  |[📜]()|
-| 3 | Introducción |[▶️](https://www.youtube.com/watch?v=PU7wCEmd8Ww&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=3)|  |[📜]()|
+| 1 | Presentación |[▶️](https://www.youtube.com/watch?v=jHAxBPdjGx4&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=1)|  ||
+| 2 | Instalación JRE y Eclipse |[▶️](https://www.youtube.com/watch?v=q93TEg-_byg&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=2)|  ||
+| 3 | Introducción |[▶️](https://www.youtube.com/watch?v=PU7wCEmd8Ww&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=3)|  ||
 | 4 | Estructuras Principales I |[▶️](https://www.youtube.com/watch?v=_O522OPI-n4&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=4)|  |[📜]()|
 | 5 | Estructuras Principales II |[▶️](https://www.youtube.com/watch?v=oxjXbsiDLKo&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=5)|  |[📜]()|
 | 6 | Estructuras Principales III. Declaración Variables. Eclipse |[▶️](https://www.youtube.com/watch?v=4Ziw0B4_VwM&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=6)|  |[📜]()|
