@@ -29,7 +29,7 @@
 | 23 | Arrays I |[▶️](https://www.youtube.com/watch?v=ohleIXAqBHs&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=23)|  |[📜]()|
 | 24 | Arrays II |[▶️](https://www.youtube.com/watch?v=qDAmsHEO7Ks&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=24)|  |[📜]()|
 | 25 | Arrays III. Arrays Bidimensionales |[▶️](https://www.youtube.com/watch?v=xCzq0SE-udM&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=25)|  |[📜]()|
-| 26 | Arrays IV. Arrays bidimensionales II |[▶️](https://www.youtube.com/watch?v=51oJIJ-myLE&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=26)|  |[📜]()|
+| 26 | Arrays IV. Arrays Bidimensionales II |[▶️](https://www.youtube.com/watch?v=51oJIJ-myLE&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=26)|  |[📜]()|
 | 27 |  |[▶️]()|  |[📜]()|
 | 28 |  |[▶️]()|  |[📜]()|
 | 29 |  |[▶️]()|  |[📜]()|
