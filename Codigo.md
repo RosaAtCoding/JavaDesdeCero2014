@@ -5,3 +5,6 @@
 
 ## Video 6
 - [Variables.java](/PrimerosPasos/src/Variables.java)
+
+## Video 7
+- [DeclaracionesOperadores.java](/PrimerosPasos/src/DeclaracionesOperadores.java)
